@@ -1,4 +1,5 @@
 : capital-common-countries
+Athens Greece Baghdad Iraq
 Athens Greece Berlin Germany
 Athens Greece Cairo Egypt
 Athens Greece Canberra Australia
